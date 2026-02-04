@@ -34,7 +34,5 @@ public class casting {
         o = 7.0;
         n = (int)o;
         System.out.println(o);
-
     }
-
 }
